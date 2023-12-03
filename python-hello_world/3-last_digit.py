@@ -4,7 +4,7 @@ number = random.randint ( -10000 , 10000)
 digit =number % 10
 
 if digit > 5 :
-    print("Last digit of" , number , "is" , digit , "and is greater than 5")
+    print("Last digit of",number ,"is", digit,"and is greater than 5")
 
 elif digit == 0:
 
