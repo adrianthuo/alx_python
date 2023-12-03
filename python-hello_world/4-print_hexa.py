@@ -1,2 +1,2 @@
 for i in range(99):
-    print(f"{i} = {hex(i)}")
+    print("{0} = {1}".format(i, hex(i)))
