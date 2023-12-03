@@ -9,5 +9,5 @@ elif number == 0 :
 
 else:
     if number < 0 :
-        print(number,"is negative\n")
+        print(number,"is negative")
 
